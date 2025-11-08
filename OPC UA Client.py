@@ -1,11 +1,11 @@
 """
-OPC UA Client Application - Part 1: Imports, Data Models & Configuration
+OPC UA Client Application
 Industrial Communication Testing Tool
 
 Requirements:
 - opcua (pip install opcua)
 - tkinter (built-in)
-pyinstaller --onefile --noconsole --icon=app.ico --name "OPC_UA_Client" ua_client_advanced_v2.py
+pyinstaller --onefile --noconsole --name "OPC_UA_Client" OPC UA Client.py
 
 
 """
